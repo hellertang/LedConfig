@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/ecilipsejava/LedConfig/lib/beautyeye_lnf.jar"/>
+	<classpathentry kind="lib" path="D:/ecilipsejava/LedConfig/lib/jdom.jar"/>
+	<classpathentry kind="lib" path="D:/ecilipsejava/LedConfig/lib/jna-3.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/ecilipsejava/LedConfig/lib/platform-3.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/ecilipsejava/LedConfig/lib/vlcj-3.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.36-bin.jar"/>
+	<classpathentry kind="lib" path="lib/javax.mail.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
